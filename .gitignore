@@ -1,0 +1,8 @@
+/bin/
+.classpath
+*.class
+*.jar
+*.log
+.project
+/.settings/
+/beaconData/
